@@ -1,0 +1,46 @@
+{
+  "groups": [
+    {
+      "name": "jlibra",
+      "type": "dev.jlibra.spring.autoconfigure.JLibraProperties",
+      "sourceType": "dev.jlibra.spring.autoconfigure.JLibraProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jlibra.faucet-port",
+      "type": "java.lang.Integer",
+      "sourceType": "dev.jlibra.spring.autoconfigure.JLibraProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "jlibra.faucet-url",
+      "type": "java.lang.String",
+      "sourceType": "dev.jlibra.spring.autoconfigure.JLibraProperties"
+    },
+    {
+      "name": "jlibra.gas-unit-price",
+      "type": "java.lang.Long",
+      "sourceType": "dev.jlibra.spring.autoconfigure.JLibraProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "jlibra.max-gas-amount",
+      "type": "java.lang.Long",
+      "sourceType": "dev.jlibra.spring.autoconfigure.JLibraProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "jlibra.service-port",
+      "type": "java.lang.Integer",
+      "sourceType": "dev.jlibra.spring.autoconfigure.JLibraProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "jlibra.service-url",
+      "type": "java.lang.String",
+      "sourceType": "dev.jlibra.spring.autoconfigure.JLibraProperties"
+    }
+  ],
+  "hints": []
+}
